@@ -1,5 +1,11 @@
 package empresa;
 
+/**
+ * 
+ * @author Erasmo
+ *
+ */
+
 class Data{
 	int dia, mes, ano;
 
