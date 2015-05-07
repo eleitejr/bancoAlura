@@ -1,4 +1,5 @@
-package contas;
+package br.com.empresa.banco.contas;
+
 
 public abstract class Conta {
 	protected String nome;

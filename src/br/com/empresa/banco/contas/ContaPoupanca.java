@@ -1,4 +1,4 @@
-package contas;
+package br.com.empresa.banco.contas;
 
 public class ContaPoupanca extends Conta{
 

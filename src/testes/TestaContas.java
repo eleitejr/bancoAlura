@@ -1,10 +1,10 @@
 package testes;
 
-import contas.AtualizadorDeContas;
-import contas.Conta;
-import contas.ContaCorrente;
-import contas.ContaPoupanca;
-import contas.SaldoInsuficienteException;
+import br.com.empresa.banco.contas.Conta;
+import br.com.empresa.banco.contas.ContaCorrente;
+import br.com.empresa.banco.contas.ContaPoupanca;
+import br.com.empresa.banco.contas.SaldoInsuficienteException;
+import br.com.empresa.banco.sistema.AtualizadorDeContas;
 
 public class TestaContas {
 	public static void main(String[] args) {

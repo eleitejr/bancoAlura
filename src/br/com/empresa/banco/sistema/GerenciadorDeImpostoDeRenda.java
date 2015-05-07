@@ -1,4 +1,5 @@
-package contas;
+package br.com.empresa.banco.sistema;
+
 
 public class GerenciadorDeImpostoDeRenda {
 	private double total;

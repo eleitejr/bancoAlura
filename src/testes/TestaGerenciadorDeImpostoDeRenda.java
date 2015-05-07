@@ -1,8 +1,8 @@
 package testes;
 
-import contas.ContaCorrente;
-import contas.GerenciadorDeImpostoDeRenda;
-import contas.SeguroDeVida;
+import br.com.empresa.banco.contas.ContaCorrente;
+import br.com.empresa.banco.contas.SeguroDeVida;
+import br.com.empresa.banco.sistema.GerenciadorDeImpostoDeRenda;
 
 public class TestaGerenciadorDeImpostoDeRenda {
 

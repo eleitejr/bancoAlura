@@ -1,4 +1,6 @@
-package contas;
+package br.com.empresa.banco.sistema;
+
+import br.com.empresa.banco.contas.Conta;
 
 public class AtualizadorDeContas {
 	private double saldoTotal = 0;

@@ -1,7 +1,7 @@
 package testes;
 
-import contas.ContaCorrente;
-import contas.Tributavel;
+import br.com.empresa.banco.contas.ContaCorrente;
+import br.com.empresa.banco.sistema.Tributavel;
 
 
 class TestaTributavel {

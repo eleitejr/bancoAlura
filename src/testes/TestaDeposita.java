@@ -1,8 +1,8 @@
 package testes;
 
-import contas.Conta;
-import contas.ContaCorrente;
-import contas.ValorInvalidoException;
+import br.com.empresa.banco.contas.Conta;
+import br.com.empresa.banco.contas.ContaCorrente;
+import br.com.empresa.banco.contas.ValorInvalidoException;
 
 public class TestaDeposita {
 	public static void main(String[] args) {

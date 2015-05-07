@@ -1,4 +1,6 @@
-package contas;
+package br.com.empresa.banco.contas;
+
+import br.com.empresa.banco.sistema.Tributavel;
 
 public class ContaCorrente extends Conta implements Tributavel {
 	public ContaCorrente(String nome, int agencia, double saldo, double limite) {
